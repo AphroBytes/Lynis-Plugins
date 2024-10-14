@@ -1,2 +1,0 @@
-# Lynis-Plugins
-Lynis Plugins
