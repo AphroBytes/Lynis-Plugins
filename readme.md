@@ -8,7 +8,7 @@ This enhanced Lynis plugin is your comprehensive toolkit for Docker security aut
 
 1. **Download the Plugin**:
    ```bash
-   wget https://example.com/path/to/dockers-001.sh
+   wget https://github.com/AphroBytes/Lynis-Plugins/blob/main/dockers-001.sh
    ```
 
 2. **Make it Executable and Move it to the Lynis Plugins Directory**:
