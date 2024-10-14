@@ -2,7 +2,7 @@
 
 ## What's This?
 
-This enhanced Lynis plugin is your comprehensive toolkit for Docker security automation. It performs a wide range of checks to ensure your Docker environment adheres to best practices and security standards.
+This Lynis plugin is your comprehensive toolkit for Docker security automation. It performs a wide range of checks to ensure your Docker environment adheres to best practices and security standards.
 
 ## Quick Start
 
@@ -116,4 +116,4 @@ Security in containerized environments is crucial and ever-evolving. This plugin
 
 Good luck and stay safe,
 
--AphroBytes
+-AphroBytes Team
