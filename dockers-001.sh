@@ -147,7 +147,7 @@ if [ "${SKIPTEST}" -eq 0 ]; then
     fi
 fi
 
-# DOCKER-0004: Check Docker image vulnerabilities using Trivy
+# DOCKER-0004: Check Docker image vulnerabilities using Trivy.
 Register --test-no DOCKER-0004 --weight H --network YES --description "Check Docker image vulnerabilities using Trivy"
 if [ "${SKIPTEST}" -eq 0 ]; then
     if command -v trivy >/dev/null 2>&1; then
